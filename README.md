@@ -28,5 +28,7 @@ Link bài viết chi tiết:
 
 ## 4. Patch DSDT/SSDT
 Có 2 phương pháp patch DSDT/SSDT đó là Static Patch và Hotpatch.
+
 Static patch là phương pháp patch cũ trước đây, yêu cầu người chơi hack phải nắm được một số kiến thức nhất định và phải dump file DSDT/SSDT trực tiếp từ hệ thống và chỉnh sửa chúng. Việc sử dụng phương pháp này khiến chúng ta không được phép cập nhật hay thay đổi phiên bản BIOS vì sẽ gây ra lỗi.
+
 Ngược lại, hotpatch ngày nay là 1 phương pháp patch DSDT phổ biến, có thể dùng chung được nhiều máy, update/downgrade BIOS thoải mái mà không sợ gây ra lỗi.
