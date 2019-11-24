@@ -9,10 +9,11 @@ Những file config này được Rehabman làm riêng cho các dòng laptop ph�
 ## 1. Tạo bộ cài macOS lên USB
 Thông thường bộ cài macOS được tạo trực tiếp trên môi trường macOS. Một số trường hợp bạn không thể mượn được bạn bè máy Mac hoặc máy Hackintosh có sẵn thì phải tạo bộ cài trên Windows.
 
-#### Chuẩn bị:
-- USB tối thiểu 8GB, 3.0 hoặc cao hơn càng tốt.
-- Bộ cài macOS sạch từ AppStore:
-  - macOS Sierra: 
-  - macOS High Sierra:
-  - macOS Mojave:
-  - macOS Catalina:
+Link bài viết chi tiết:
+
+## 2. Cài macOS lên ổ cứng
+Sau khi tạo xong USB cài đặt, thêm các kext cần thiết, chúng ta bắt đầu vào giai đoạn cài macOS lên ổ cứng.
+Nội dung
+- Chia phân vùng trên ổ cứng.
+- Setup BIOS
+- Thực hiện cài đặt macOS
