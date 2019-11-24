@@ -1,5 +1,5 @@
 # HACKINTOSH TUTORIALS
-Chuỗi bài viết này được mình dịch lại từ 1 số guide của Rehabman cho các bạn yếu tiếng Anh có thể đọc hiểu và thực hiện theo. Minh sẽ dẫn link gốc vào cuối mỗi bài dịch để các bạn có thể tiện so sánh các thuật ngữ tiếng Anh.
+Chuỗi bài viết này được mình tổng hợp và dịch lại từ 1 số guide của Rehabman cũng như tham khảo từ nhiều nguồn khác nhau, dành cho các bạn yếu tiếng Anh có thể đọc hiểu và thực hiện theo. Minh sẽ dẫn link gốc vào cuối mỗi bài dịch để các bạn có thể tiện so sánh các thuật ngữ tiếng Anh.
 
 ## Các file config.plist được Rehabman làm sẵn cho laptop và phương pháp Hotpatch
 Những file config này được Rehabman làm riêng cho các dòng laptop phổ biến sử dụng card graphic onbard của Intel.
