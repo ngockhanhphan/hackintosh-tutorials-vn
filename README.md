@@ -30,3 +30,15 @@ Link bài viết chi tiết:
 Có 2 phương pháp patch DSDT/SSDT đó là Static Patch và Hotpatch.
 
 Hotpatch là kĩ thuật patch nóng các bảng DSDT + SSDT khi Clover khởi động, thay cho việc nạp file DSDT + SSDT đã patch sẵn (static patch). Static patch thì có ưu điểm là dễ patch và khó bị lỗi hơn, nhưng mỗi khi update BIOS thì thường là phải patch lại. Còn hotpatch khó thực hiện hơn (nhất là với patch pin), dễ gặp lỗi nếu không cẩn thận, nhưng do patch nóng nên update BIOS thoải mái patch vẫn chạy ngon. Ngoài ra hotpatch nếu tách ra làm nhiều file thì có thể bật/tắt các patch tùy ý, thay vì như 1 file DSDT chứa nhiều patch. Một lợi điểm khác là hotpatch dễ phân phối và áp dụng lên nhiều máy có cấu hình giống hoặc tương tự nhau.
+
+Các bạn có thể tham khảo bài viết của Rehabman về hotpatch APCI tại link:
+
+Hoặc đọc bài dịch của mình nếu không tốt tiếng Anh: 
+
+## 5. Cài đặt âm thanh cho máy Hackintosh
+Có nhiều cách để enable Audio cho máy hackintosh như dùng AppleHDA, VoodooHDA, AppleALC. Nhưng mình thấy đơn giản và thông dụng nhất là dùng AppleALC nên mình sẽ hướng dẫn cho các bạn enable theo phương pháp này. Nếu bạn nào muốn thử các cách kia mình vẫn sẽ dẫn link vào cuối bài cho các bạn tiện tham khảo.
+
+Link bài viết: 
+
+## Hướng dẫn Inject card rời Nvidia, ADM cho các máy PC
+
