@@ -9,7 +9,7 @@ Những file config này được Rehabman làm riêng cho các dòng laptop ph�
 ## 1. Tạo bộ cài macOS lên USB
 Thông thường bộ cài macOS được tạo trực tiếp trên môi trường macOS. Một số trường hợp bạn không thể mượn được bạn bè máy Mac hoặc máy Hackintosh có sẵn thì phải tạo bộ cài trên Windows.
 
-Link bài viết chi tiết: updating...
+Link bài viết chi tiết: https://github.com/ngockhanhphan/hackintosh-tutorials-vn/wiki/1.-T%E1%BA%A1o-b%E1%BB%99-c%C3%A0i-macOS-l%C3%AAn-USB
 
 ## 2. Cài macOS lên ổ cứng
 Sau khi tạo xong USB cài đặt, thêm các kext cần thiết, chúng ta bắt đầu vào giai đoạn cài macOS lên ổ cứng.
@@ -18,13 +18,13 @@ Nội dung
 - Setup BIOS
 - Thực hiện cài đặt macOS
 
-Link bài viết chi tiết: updating...
+Link bài viết chi tiết: https://github.com/ngockhanhphan/hackintosh-tutorials-vn/wiki/2.-C%C3%A0i-macOS-l%C3%AAn-%E1%BB%95-c%E1%BB%A9ng
 
 ## 3. Cài Clover Bootloader lên ổ cứng
 Mỗi lần boot vào mac phải dùng USB mồi rất bất tiện, vì thế chúng ta cần cài đặt Clovẻ lên ổ cứng để tiện cho việc dual boot.
 Mục này chúng ta sẽ đi vào cách cài Clover và thêm boot option cho 1 số máy không hỗ trợ chỉnh sửa trong BIOS.
 
-Link bài viết chi tiết: updating...
+Link bài viết chi tiết: https://github.com/ngockhanhphan/hackintosh-tutorials-vn/wiki/3.-C%C3%A0i-Clover-Bootloader-l%C3%AAn-%E1%BB%95-c%E1%BB%A9ng
 
 ## 4. Patch DSDT/SSDT
 Có 2 phương pháp patch DSDT/SSDT đó là Static Patch và Hotpatch.
@@ -33,12 +33,12 @@ Hotpatch là kĩ thuật patch nóng các bảng DSDT + SSDT khi Clover khởi �
 
 Các bạn có thể tham khảo bài viết của Rehabman về hotpatch APCI tại link: updating...
 
-Hoặc đọc bài dịch của mình nếu không tốt tiếng Anh: updating...
+Hoặc đọc bài dịch của mình nếu không tốt tiếng Anh: https://github.com/ngockhanhphan/hackintosh-tutorials-vn/wiki/4.-Patch-DSDT-SSDT
 
 ## 5. Cài đặt âm thanh cho máy Hackintosh
 Có nhiều cách để enable Audio cho máy hackintosh như dùng AppleHDA, VoodooHDA, AppleALC. Nhưng mình thấy đơn giản và thông dụng nhất là dùng AppleALC nên mình sẽ hướng dẫn cho các bạn enable theo phương pháp này. Nếu bạn nào muốn thử các cách kia mình vẫn sẽ dẫn link vào cuối bài cho các bạn tiện tham khảo.
 
-Link bài viết: updating...
+Link bài viết: https://github.com/ngockhanhphan/hackintosh-tutorials-vn/wiki/5.-C%C3%A0i-%C4%91%E1%BA%B7t-%C3%A2m-thanh-cho-m%C3%A1y-Hackintosh
 
 ## Hướng dẫn Inject card rời Nvidia, ADM cho các máy PC
-
+https://github.com/ngockhanhphan/hackintosh-tutorials-vn/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-Inject-card-r%E1%BB%9Di-Nvidia,-ADM-cho-c%C3%A1c-m%C3%A1y-PC
